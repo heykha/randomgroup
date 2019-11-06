@@ -1,4 +1,6 @@
 <?php
+
+// lenguage is indonesian, change to your lenguage
 function garis($jum) {
 	for ($i=0; $i<= $jum; $i++) {
 		echo "=";
